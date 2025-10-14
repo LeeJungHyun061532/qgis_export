@@ -1,7 +1,7 @@
 var size = 0;
 var placement = 'point';
 
-var style_naver_land_gajwamonth_3 = function(feature, resolution){
+var style_naver_land_chillmonth_5 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
