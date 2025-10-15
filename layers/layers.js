@@ -3,7 +3,6 @@ var wms_layers = [];
 
         var lyr_gg_hybrid_0 = new ol.layer.Tile({
             'title': 'gg_hybrid',
-            'type':'base',
             'opacity': 1.000000,
             
             
